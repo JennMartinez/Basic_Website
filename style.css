@@ -6,4 +6,12 @@ nav {
     background-color: rgb(196, 78, 196);
     height: 50px;
     padding: 42px 40px 9px 29px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    float: left;
+}
+
+a#about, a#contact, a#email {
+    color: black;
+    float: right;
 }
