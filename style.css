@@ -5,15 +5,18 @@ body {
 .topnav-left {
     background-color: rgb(196, 78, 196);
     height: 50px;
-    padding: 42px 40px 9px 29px;
+    padding: 42px 25px 9px 29px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 25px;
 }
 
 div.topnav-right a {
     color: rgb(255, 246, 126);
+    padding-right: 10px;
+    float: right;
 }
 
-a#centers, a#groups, a#p-onco, a#oncologist {
+div.resource-links a {
     color: greenyellow;
+    clear: both;
 }
