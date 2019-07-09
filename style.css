@@ -8,10 +8,10 @@ body {
 }
 
 div.resource-links a {
-    color: rgb(30, 179, 75);
-    clear: both;
+    color: rgb(0, 178, 209);
 }
 
 h2 {
-    color: rgb(0, 178, 209);
+    color: rgb(30, 179, 75);
+    text-decoration-line: underline;
 }
