@@ -13,5 +13,14 @@ div.resource-links a {
 
 h2 {
     color: rgb(30, 179, 75);
-    text-decoration-line: underline;
+    border-bottom: 1px solid currentColor;
+}
+
+h3 {
+    color: rgb(30, 179, 75);
+    border-bottom: 1px solid currentColor;
+}
+
+div.relay-links a {
+    color: rgb(0, 178, 209);
 }
