@@ -25,7 +25,11 @@ div.relay-links a {
     color: rgb(0, 178, 209);
 }
 
-button.btn.btn-info {
+button.btn.btn-success {
     padding: 0px 16px 0px 16px;
-    margin: 32px 4px 0px 4px;
+    margin: 32px 4px 16px 4px;
+}
+
+label {
+    color: rgb(0, 178, 209);
 }
