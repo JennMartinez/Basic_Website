@@ -41,16 +41,19 @@
             </span>
         </div>
     </nav>
+    <!-- Thematic Break -->
     <hr style="background-color:rgb(0, 178, 209)">
+    <!-- Resources -->
     <div class="container">
         <h2>Resources</h2>
-            <div class="resource-links">
-                <a href="#">Centers</a><br><br>
-                <a href="#">Groups</a><br><br>
-                <a href="#">Psycho-Oncologists</a><br><br>
-                <a href="#">Oncologists</a>
-            </div>
-    <br><br><br>
+        <div class="resource-links">
+            <a href="#">Centers</a><br><br>
+            <a href="#">Groups</a><br><br>
+            <a href="#">Psycho-Oncologists</a><br><br>
+            <a href="#">Oncologists</a>
+        </div>
+        <br><br><br>
+        <!-- Additional Resources -->
         <div class="section">
             <h3>Miles 4 Life</h3>
             <div class="relay-links">
@@ -62,7 +65,28 @@
             </div>
         </div>
     </div>
-
+    <!-- Thematic Break -->
+    <hr style="background-color: rgb(0, 178, 209)">
+    <!-- Location Header -->
+    <div class="header-location">
+        <h2>Location</h2>
+    </div>
+    <!-- Location Radius Form -->
+    <form>
+        <div class="form-group col-md-2">
+            <label for="inputZip">Zip Code</label>
+            <input type="text" class="form-control" id="inputZip">
+        </div>
+        <div class="form-group col-md-4">
+            <label for="inputState">Radius</label>
+            <select id="inputState" class="form-control">
+                <option selected>Choose...</option>
+                <option>5 miles</option>
+            </select>
+        </div>
+        <!-- Submit Button To Set Location -->
+        <button type="submit" class="btn btn-info">Submit</button>
+    </form>
 
 </body>
 
