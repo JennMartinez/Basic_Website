@@ -46,3 +46,9 @@ label {
 span.footer-special-color {
     color: rgb(106, 106, 182);
 }
+
+a.navbar-brand-footer {
+    text-align: center;
+    width: 100%;
+    color: rgb(30, 179, 75);
+}
