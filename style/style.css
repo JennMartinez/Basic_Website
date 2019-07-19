@@ -7,6 +7,10 @@ body {
     font-size: 33px;
 }
 
+span.special-color {
+    color: rgb(106, 106, 182);
+}
+
 div.resource-links a {
     /* color: rgb(0, 178, 209); */
     color: rgb(106, 106, 182);
