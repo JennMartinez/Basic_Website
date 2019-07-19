@@ -15,89 +15,96 @@
 
 <body>
     <!-- Navbar -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">CR<span class="special-color">2</span>C</a>                       
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
-            aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarText">
-            <ul class="navbar-nav mr-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="about.html">About</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact</a>
-                </li>
-            </ul>
-            <span class="navbar-text">
-                <form class="form-inline">
-                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-                </form>
-            </span>
-        </div>
-    </nav>
-    <!-- Thematic Break -->
-    <hr style="background-color:rgb(106, 106, 182); margin-top: 100px;">
-    <!-- Resources -->
     <div class="container">
-        <h2>Resources</h2>
-        <div class="resource-links">
-            <a href="resources/centers.html">Cancer Centers</a><br><br>
-            <a href="resources/oncologists.html">Oncologists</a><br><br>
-            <a href="resources/psycho-oncologists.html">Psycho-Oncology</a><br><br>
-            <a href="resources/groups.html">Support Groups</a>
+        <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="#">CR<span class="special-color">2</span>C</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText"
+                aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarText">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact</a>
+                    </li>
+                </ul>
+                <span class="navbar-text">
+                    <form class="form-inline">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                    </form>
+                </span>
+            </div>
+        </nav>
+        <!-- Thematic Break -->
+        <hr style="background-color:rgb(106, 106, 182); margin-top: 100px;">
+        <!-- Resources -->
+        <section>
+            <h2>Resources</h2>
+            <div class="resource-links">
+                <a href="resources/centers.html">Cancer Centers</a><br><br>
+                <a href="resources/oncologists.html">Oncologists</a><br><br>
+                <a href="resources/psycho-oncologists.html">Psycho-Oncology</a><br><br>
+                <a href="resources/groups.html">Support Groups</a>
 
-        </div>
-        <br><br>
-        <!-- Additional Resources -->
-        <div class="section">
-            <h3>Miles 4 Life</h3>
-            <div class="relay-links">
-                <a href="miles-4-life/associations.html">Associations</a><br><br>
-                <a href="miles-4-life/cancer-relays.html">Cancer Relays</a><br><br>
-                <a href="miles-4-life/fund-raisers.html">Fundraisers</a><br><br>
-                <a href="miles-4-life/organizations.html">Organizations</a><br><br>
             </div>
-        </div>
-    </div>
-    <!-- Thematic Break -->
-    <hr style="background-color: rgb(106, 106, 182)">
-    <!-- Location Header -->
-    <div class="container">
-        <div class="header-location">
-            <h2>Location</h2>
-        </div>
-        <!-- Location Radius Form -->
-        <form>
-            <div class="form-row">
-                <div class="form-group col-md-2">
-                    <label for="inputZip">Zip Code</label>
-                    <input type="text" class="form-control" id="inputZip">
+            <br><br>
+            <!-- Additional Resources -->
+            <div class="section">
+                <h3>Miles 4 Life</h3>
+                <div class="relay-links">
+                    <a href="miles-4-life/associations.html">Associations</a><br><br>
+                    <a href="miles-4-life/cancer-relays.html">Cancer Relays</a><br><br>
+                    <a href="miles-4-life/fund-raisers.html">Fundraisers</a><br><br>
+                    <a href="miles-4-life/organizations.html">Organizations</a><br><br>
                 </div>
-                <div class="form-group col-md-3">
-                    <label for="inputState">Radius</label>
-                    <select id="inputState" class="form-control">
-                        <option selected>Choose...</option>
-                        <option>5 miles</option>
-                        <option>10 miles</option>
-                        <option>15 miles</option>
-                        <option>20 miles</option>
-                        <option>25 miles</option>
-                        <option>30 miles</option>
-                        <option>35 miles</option>
-                        <option>45 miles</option>
-                        <option>50+ miles</option>
-                    </select>
-                </div>
-                <!-- Submit Button To Set Location -->
-                <button type="submit" class="btn btn-success">Submit</button>
             </div>
-        </form>
+        </section>
+        <!-- Thematic Break -->
+        <hr style="background-color: rgb(106, 106, 182)">
+        <!-- Location Header -->
+        <section>
+            <div class="header-location">
+                <h2>Location</h2>
+            </div>
+            <!-- Location Radius Form -->
+            <form>
+                <div class="form-row">
+                    <div class="form-group col-md-2">
+                        <label for="inputZip">Zip Code</label>
+                        <input type="text" class="form-control" id="inputZip">
+                    </div>
+                    <div class="form-group col-md-3">
+                        <label for="inputState">Radius</label>
+                        <select id="inputState" class="form-control">
+                            <option selected>Choose...</option>
+                            <option>5 miles</option>
+                            <option>10 miles</option>
+                            <option>15 miles</option>
+                            <option>20 miles</option>
+                            <option>25 miles</option>
+                            <option>30 miles</option>
+                            <option>35 miles</option>
+                            <option>45 miles</option>
+                            <option>50+ miles</option>
+                        </select>
+                    </div>
+                    <!-- Submit Button To Set Location -->
+                    <button type="submit" class="btn btn-success">Submit</button>
+                </div>
+            </form>
+        </section>
+        <footer>
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <a class="navbar-brand" href="#">&copy; Copyright 2019 CR<span class="footer-special-color">2</span>C</a>
+            </nav>
+        </footer>
     </div>
 
 </body>

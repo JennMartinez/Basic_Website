@@ -42,3 +42,7 @@ label {
 .container {
     margin-top: 27px;
 }
+
+span.footer-special-color {
+    color: rgb(106, 106, 182);
+}
