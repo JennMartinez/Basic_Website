@@ -52,3 +52,11 @@ a#beginnig-text-color.navbar-brand-footer {
     text-align: center;
     width: 100%;
 }
+
+span.special-color {
+    color: rgb(106, 106, 182);
+}
+
+span.business-title-green-color {
+    color: rgb(30, 179, 75);
+}
