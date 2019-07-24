@@ -60,3 +60,7 @@ span.special-color {
 span.business-title-green-color {
     color: rgb(30, 179, 75);
 }
+
+a.link-color {
+    color: rgb(106, 106, 182);
+}
