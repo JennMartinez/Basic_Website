@@ -1,6 +1,6 @@
 # Basic_Website
 
-A work in progress. I am building a website that is dedicated to current or past cancer patients/survivorship.
+A work in progress. I am building a website that is dedicated to current or in remission cancer patients/survivorship.
 
 The website is addressed as an acronym: CR2C "Cancer Resources to Communities."
 
