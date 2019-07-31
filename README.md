@@ -11,7 +11,11 @@ Currently, I am using HTML, Bootstrap, and custom css styling for my framework.
 A main goal in this build will be to, create a zip code radius search bar, based on an individual's location. That location will create a
 list of actual resources. I will research for a reputable API that will serve the needs and goal of this build. 
 
-Another goal is, make the entire website mobile responsive.
+Each individual that visits the CR2C site, has the option to become a member for free, which will create a community within the CR2C site. 
+
+In order to accomplish my goal for individuals to become members, I want to create a database that stores their information, and allows them to interact with one another, with their privacy at the forefront as well.
+
+Another goal is, to make the entire website mobile responsive.
 
 I am creating an original logo for the website using Photoshop.
 
