@@ -15,7 +15,9 @@ Each individual that visits the CR2C site, has the option to become a member for
 
 In order to accomplish my goal for individuals to become members, I want to create a database that stores their information, and allows them to interact with one another, with their privacy at the forefront as well.
 
-Another goal is, to make the entire website mobile responsive.
+A login will eventually accompany the member login for the website. However, the goal for free membership and the various builds behind this goal are 'ice box' at this moment.
+
+Another goal is, to make the entire website mobile responsive for the ease of use and on the go.
 
 I am creating an original logo for the website using Photoshop.
 
