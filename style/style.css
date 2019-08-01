@@ -178,39 +178,66 @@ a.link-color {
   
   @media screen and (max-width: 320px) {
   
-    .ontainer {
+    .container {
       width: 320px;
     }
   }
 
   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Media Queries - 768px */
 
+/* Index */
+
+@media screen and (max-width: 768px) {
+
+    .container {
+      width: 100%;
+    }
+  
+    nav {
+      width: 100%;
+    }
+  
+    section {
+      width: 100%;
+    }
+  
+    h2 {
+      width: 100%;
+    }
+  
+    .resource-links {
+      width: 100%;
+    }
+  
+    .section {
+      width: 100%;
+    }
+  
+    h3 {
+      width: 100%;
+    }
+
+    .relay-links {
+        width: 100%;
+    }
+    
+    .header-location {
+        width: 100%;
+    }
+
+    form {
+        width: 100%;
+    }
+
+    footer {
+        width: 100%;
+    }
+  }
+
+
+
+  
   
   @media screen and (max-width: 768px) {
   
