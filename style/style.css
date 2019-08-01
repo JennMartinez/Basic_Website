@@ -12,7 +12,6 @@ span.special-color {
 }
 
 div.resource-links a {
-    /* color: rgb(0, 178, 209); */
     color: rgb(106, 106, 182);
 }
 
@@ -64,3 +63,65 @@ span.business-title-green-color {
 a.link-color {
     color: rgb(106, 106, 182);
 }
+
+/* Media Queries */
+
+/* index.html */
+
+@media screen and (max-width: 640px) {
+
+    .container {
+      width: 100%;
+      text-align: center;
+    }
+  
+    nav {
+      width: 100%;
+    }
+  
+    section {
+      width: 100%;
+    }
+  
+    h2 {
+      width: 100%;
+    }
+  
+    .resource-links {
+      width: 100%;
+    }
+  
+    .section {
+      width: 100%;
+    }
+  
+    h3 {
+      width: 100%;
+    }
+
+    .relay-links {
+        width: 100%;
+    }
+    
+    .header-location {
+        width: 100%;
+    }
+
+    form {
+        width: 100%;
+    }
+
+    footer {
+        width: 100%;
+    }
+  }
+  
+  
+  @media screen and (max-width: 320px) {
+  
+    .container {
+       width: 320px;
+     }
+  }
+  
+  
