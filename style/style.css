@@ -64,9 +64,9 @@ a.link-color {
     color: rgb(106, 106, 182);
 }
 
-/* Media Queries */
+/* Media Queries - 640px */
 
-/* index.html */
+/* Index */
 
 @media screen and (max-width: 640px) {
 
@@ -116,12 +116,113 @@ a.link-color {
     }
   }
   
-  
   @media screen and (max-width: 320px) {
   
     .container {
        width: 320px;
      }
+  }
+
+  /* About */
+  
+  @media screen and (max-width: 640px) {
+  
+    nav {
+      width: 100%;
+    }
+  
+    .container {
+      width: 100%;
+    }
+  
+    h2 {
+      width: 100%;
+    }
+  
+    .resource-links {
+      width: 100%;
+    }
+  
+    footer {
+      width: 100%;
+    }
+  }
+  
+  @media screen and (max-width: 320px) {
+  
+    .container {
+      width: 320px;
+    }
+  }
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Media Queries - 768px */
+
+  
+  @media screen and (max-width: 768px) {
+  
+   
+  }
+
+  
+  
+  @media screen and (max-width: 768px) {
+  
+   
+  }
+  
+  
+  @media screen and (max-width: 768px) {
+  
+    
+  }
+  
+
+
+  /* Media Queries - 980px */
+
+  
+  @media screen and (max-width: 980px) {
+  
+    
+  }
+  
+  
+  @media screen and (max-width: 980px) {
+  
+   
+  }
+  
+  
+  @media screen and (max-width: 980px) {
+  
+    
   }
   
   
