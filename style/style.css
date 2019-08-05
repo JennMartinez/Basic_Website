@@ -235,27 +235,53 @@ a.link-color {
     }
   }
 
-
-
-  
+  /* About */
   
   @media screen and (max-width: 768px) {
   
-   
+    nav {
+      width: 100%;
+    }
+  
+    .container {
+      width: 100%;
+    }
+  
+    h2 {
+      width: 100%;
+    }
+  
+    .resource-links {
+      width: 100%;
+    }
+  
+    footer {
+      width: 100%;
+    }
   }
 
-  
-  
-  @media screen and (max-width: 768px) {
-  
-   
-  }
-  
+  /* Contact */
   
   @media screen and (max-width: 768px) {
-  
     
+    nav {
+      width: 100%;
+    }
+    
+    .container {
+      width: 100%;
+    }
+    
+    .resource-links {
+      width: 100%;
+    }
+    
+    footer {
+      width: 100%;
+    }
   }
+  
+  
   
 
 
