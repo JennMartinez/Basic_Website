@@ -404,10 +404,113 @@ a.link-color {
       width: 100%;
     }
   }
+
+  @media screen and (max-width: 640px) {
+    
+    nav {
+      width: 100%;
+    }
+    
+    .container {
+      width: 100%;
+    }
+    
+    .resource-links {
+      width: 100%;
+    }
+    
+    footer {
+      width: 100%;
+    }
+  }
   
+  /* Resources */
+  /* Centers */
+
+  @media screen and (max-width: 768px) {
+    
+    nav {
+      width: 100%;
+    }
+    
+    .container {
+      width: 100%;
+    }
+    
+    .resource-links {
+      width: 100%;
+    }
+    
+    footer {
+      width: 100%;
+    }
+  }
+
+  /* Groups */
+
+  @media screen and (max-width: 768px) {
+    
+    nav {
+      width: 100%;
+    }
+    
+    .container {
+      width: 100%;
+    }
+    
+    .resource-links {
+      width: 100%;
+    }
+    
+    footer {
+      width: 100%;
+    }
+  }
+
+  /* Oncologists */
+
+  @media screen and (max-width: 768px) {
+    
+    nav {
+      width: 100%;
+    }
+    
+    .container {
+      width: 100%;
+    }
+    
+    .resource-links {
+      width: 100%;
+    }
+    
+    footer {
+      width: 100%;
+    }
+  }
+
+  /* Psycho-Oncologists */
+
+  @media screen and (max-width: 768px) {
+    
+    nav {
+      width: 100%;
+    }
+    
+    .container {
+      width: 100%;
+    }
+    
+    .resource-links {
+      width: 100%;
+    }
+    
+    footer {
+      width: 100%;
+    }
+  }
+    
   /* Media Queries - 980px */
 
-  
   /* Index */
 
 @media screen and (max-width: 980px) {
