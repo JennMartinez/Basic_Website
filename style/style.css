@@ -607,101 +607,87 @@ a.link-color {
   }
 }
 
-/* Media Queries - 980px */
+/* Resources */
+  /* Centers */
 
-/* Index */
-
-@media screen and (max-width: 980px) {
-
-  .container {
-    width: 100%;
-  }
-
-  nav {
-    width: 100%;
-  }
-
-  section {
-    width: 100%;
-  }
-
-  h2 {
-    width: 100%;
-  }
-
-  .resource-links {
-    width: 100%;
-  }
-
-  .section {
-    width: 100%;
-  }
-
-  h3 {
-    width: 100%;
-  }
-
-  .relay-links {
+  @media screen and (max-width: 980px) {
+    
+    nav {
       width: 100%;
-  }
-  
-  .header-location {
+    }
+    
+    .container {
       width: 100%;
-  }
-
-  form {
+    }
+    
+    .resource-links {
       width: 100%;
-  }
-
-  footer {
+    }
+    
+    footer {
       width: 100%;
-  }
-}
-
-/* About */
-
-@media screen and (max-width: 980px) {
-
-  nav {
-    width: 100%;
+    }
   }
 
-  .container {
-    width: 100%;
+  /* Groups */
+
+  @media screen and (max-width: 980px) {
+    
+    nav {
+      width: 100%;
+    }
+    
+    .container {
+      width: 100%;
+    }
+    
+    .resource-links {
+      width: 100%;
+    }
+    
+    footer {
+      width: 100%;
+    }
   }
 
-  h2 {
-    width: 100%;
+  /* Oncologists */
+
+  @media screen and (max-width: 980px) {
+    
+    nav {
+      width: 100%;
+    }
+    
+    .container {
+      width: 100%;
+    }
+    
+    .resource-links {
+      width: 100%;
+    }
+    
+    footer {
+      width: 100%;
+    }
   }
 
-  .resource-links {
-    width: 100%;
-  }
+  /* Psycho-Oncologists */
 
-  footer {
-    width: 100%;
+  @media screen and (max-width: 980px) {
+    
+    nav {
+      width: 100%;
+    }
+    
+    .container {
+      width: 100%;
+    }
+    
+    .resource-links {
+      width: 100%;
+    }
+    
+    footer {
+      width: 100%;
+    }
   }
-}
-
-/* Contact */
-
-@media screen and (max-width: 980px) {
-  
-  nav {
-    width: 100%;
-  }
-  
-  .container {
-    width: 100%;
-  }
-  
-  .resource-links {
-    width: 100%;
-  }
-  
-  footer {
-    width: 100%;
-  }
-}
-  
-  
