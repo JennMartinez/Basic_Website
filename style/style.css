@@ -687,6 +687,30 @@ a.link-color {
   }
 }
 
+/* Organizations */
+
+@media screen and (max-width: 768px) {
+  
+  nav {
+    width: 100%;
+  }
+
+  .container {
+    width: 100%;
+  }
+
+  h2 {
+    width: 100%;
+  }
+
+  .resource-links {
+    width: 100%;
+  }
+
+  footer {
+    width: 100%;
+  }
+}
 
 
 
