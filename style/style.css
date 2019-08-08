@@ -362,6 +362,38 @@ a.link-color {
   }
 }
 
+/* Fundraisers */
+
+@media screen and (max-width: 640px) {
+  
+  nav {
+    width: 100%;
+  }
+
+  .container {
+    width: 100%;
+  }
+
+  h2 {
+    width: 100%;
+  }
+
+  .resource-links {
+    width: 100%;
+  }
+
+  footer {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+
+  .container {
+    width: 320px;
+  }
+}
+
 
 
 
