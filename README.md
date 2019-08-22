@@ -11,7 +11,7 @@ Currently, I am using HTML, Bootstrap, and custom css styling for my framework.
 A main goal in this build will be to, create a zip code radius search bar, based on an individual's location. That location will create a
 list of actual resources. I will research for reputable API's that will serve the needs and goal of this build. 
 
-The one API that I am currently implementing is the, Tom Tom search api. This will provide me the search and business location features that I am wanting for my website. 
+The one API that I am currently implementing is the, TomTom api. This will provide me the search and business location features that I am wanting for my website. 
 
 Each individual that visits the CR2C site, has the option to become a member for free, which will create a community within the CR2C site. 
 
