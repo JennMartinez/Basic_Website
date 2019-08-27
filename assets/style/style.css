@@ -2,6 +2,7 @@ body {
     background-image: url("../image/leaf-cancer-logo.jpg");
     background-position: center;
     background-repeat: no-repeat;
+    background-size: 557px;
 }
 
 .navbar-dark a.navbar-brand {
@@ -19,12 +20,16 @@ div.resource-links a {
 
 h2 {
     color: rgb(30, 179, 75);
-    border-bottom: 1px solid currentColor;
+    /* border-bottom: 1px solid currentColor; */
 }
 
 h3 {
     color: rgb(30, 179, 75);
-    border-bottom: 1px solid currentColor;
+    /* border-bottom: 1px solid currentColor; */
+}
+
+h3#m4l {
+  color: rgb(30, 179, 75);
 }
 
 div.relay-links a {
@@ -65,7 +70,6 @@ span.business-title-green-color {
 a.link-color {
     color: rgb(106, 106, 182);
 }
-
 
 
 /* Media Queries - 640px */
