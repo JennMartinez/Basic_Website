@@ -1,5 +1,7 @@
 body {
-    background-color: rgb(112, 53, 168);
+    background-image: url("../image/leaf-cancer-logo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .navbar-dark a.navbar-brand {
